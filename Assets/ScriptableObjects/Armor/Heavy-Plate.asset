@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaf97255fa094042b5a309f655843b1, type: 3}
+  m_Name: Heavy-Plate
+  m_EditorClassIdentifier: Assembly-CSharp::Armor_SO
+  armorName: Plate
+  armorGroup: 2
+  armorType: 12
+  armorClass: 18
+  isAddDexMod: 0
+  dexModMax: 0
+  isMinStr: 1
+  minStr: 15
+  isStealthDisadvantage: 1

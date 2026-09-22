@@ -1,0 +1,21 @@
+
+make it working w button and saving on disk
+fix loading / what to calculate on lead
+
+
+will need to creaete inventory.... one day
+
+need to create classSOs
+
+proficiencyLists only in hero and proficiencies msut be somehow solved so they are not in general character methods
+especially in weapon and amror classes if necessary
+
+
+need to define what everything is abiulity check
+for example initiative is baility check
+find if all saves andp roficiencies are affected
+prob spellcasting
+
+in char GenerateAttacks and CalcArmorClass must be adjusted for monster and heroish char
+subvraces need rework
+
